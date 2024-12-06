@@ -1,0 +1,55 @@
+header{
+    background-color: rgb(128, 128, 128);
+    background-size:auto;
+    background-repeat:repeat;
+}
+
+
+
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 10%;
+    font-weight: bold;
+
+
+
+
+   
+}
+
+
+
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+   
+}
+ul li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(102, 102, 102);
+}
+
+
+footer {
+    background-color: rgb(128, 128, 128);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
